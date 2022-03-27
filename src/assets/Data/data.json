@@ -1,0 +1,48 @@
+{
+    "nombre": "Daniel Vallejos",
+    "titulo" : "Desarrollador Full-Stack Jr.",
+    "about" : "Lorem ipsum dolor sit amet, consectetur",
+    "experiencia":[
+    {
+        "puesto" : "Administrativo",
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "empresa" : "Honeywell",
+        "periodo" : "2000 - 2010",
+        "tareas" :"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex earum exercitationem nesciunt esse veniam dignissimos quae, architecto sequi voluptatem velit tempora quisquam. Ut velit ex et expedita harum, architecto nisi?"
+    },
+    {
+        "puesto" : "Programador",
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "empresa" : "Google",
+        "periodo" : "2000 - 2010",
+        "tareas" :"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex earum exercitationem nesciunt esse veniam dignissimos quae, architecto sequi voluptatem velit tempora quisquam. Ut velit ex et expedita harum, architecto nisi?"
+    },
+    {
+        "puesto" : "Cadete",
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "empresa" : "Voyeurbiche",
+        "periodo" : "2000 - 2010",
+        "tareas" :"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex earum exercitationem nesciunt esse veniam dignissimos quae, architecto sequi voluptatem velit tempora quisquam. Ut velit ex et expedita harum, architecto nisi?"
+    }
+],
+    "estudios":[        
+    {
+        "institucion" : "Universidad de Buenos Aires",        
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "titulo" : "Lic. en Psicologia",
+        "periodo" : "2000-2010"
+    },
+    {
+        "institucion" : "Escuela tecnica n7",
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "titulo" : "Tecnico en mantenimiento de avionica",
+        "periodo" : "2000-2010"
+    },
+    {
+        "institucion" : "Escuela tecnica n7",
+        "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+        "titulo" : "Bachiller en bienes y servicios",
+        "periodo" : "2000-2010"
+    }
+]
+}

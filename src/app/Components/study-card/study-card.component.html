@@ -1,0 +1,33 @@
+<div class="card mat-card">
+<h2 class="titulo">Estudios</h2>
+<ul class="item-list">
+    <li *ngFor="let estudios of miEducacion">
+
+        <div class="tops">
+            <div class="logoemp">
+                <img
+                [src]="estudios.logo" 
+                alt=""> 
+            </div>
+            <div class="desc-exp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-11">
+                        <h4>{{estudios.institucion}}</h4>
+                        </div>
+                        <div class="col-sm-1">
+                            <a  alt="edit"><i class="fas fa-pencil-alt"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <h6>{{estudios.titulo}}</h6>
+                <p>{{estudios.periodo}}</p>          
+            </div>
+        </div>
+    
+    </li>
+</ul>     
+<div>
+    <a alt="add"><i class="fa-solid fa-circle-plus"></i></a>  
+</div>    
+</div>

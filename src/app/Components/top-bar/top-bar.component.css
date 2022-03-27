@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    height: 40px;
+}
+.logos{
+    margin-left: 20px;
+}
+#titulo{
+    margin-left:  20px;
+    color: white;
+    vertical-align: middle;
+}
+.RS{
+    margin-left: auto;
+    margin-right: 0;
+}
+.RS button{
+    margin-left:10px;
+    margin-right: 10px;
+}
+#1stcard{
+    margin-bottom: 0px;
+}

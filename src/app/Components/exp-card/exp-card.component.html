@@ -1,0 +1,25 @@
+<body>
+
+    <div class="card mat-card">
+    <h2 class="titulo">Experiencia</h2>
+    <app-exp 
+    *ngFor="let exp of exps"
+    [exp] = "exp"
+    (onDeleteExp)="deleteExp(exp)"
+    >
+    </app-exp>
+<app-add-exp-button
+(btnClick)="toggleAddExp()"
+></app-add-exp-button>
+<app-add-exp
+(onAddExp)="addExp($event)">
+</app-add-exp>
+</div>
+
+</body>
+
+
+
+        
+
+

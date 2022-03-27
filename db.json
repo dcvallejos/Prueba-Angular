@@ -1,0 +1,28 @@
+{
+  "exps": [
+    {
+      "puesto": "asdasdadsa",
+      "empresa": "sadadsad",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+      "periodo": "asdadsa",
+      "tareas": "asdadsadadad",
+      "id": 2
+    },
+    {
+      "puesto": "asd",
+      "empresa": "asd",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+      "periodo": "asda",
+      "tareas": "asdasd",
+      "id": 3
+    },
+    {
+      "puesto": "asdads",
+      "empresa": "asdasd",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4VQ5dC2ZMKxY_fQ8VjybwLyIeUPUp0i7kBYEkRyVSLCYav2fI7wprFDOhbiADfFvUm0&usqp=CAU",
+      "periodo": "asdsad",
+      "tareas": "asdasd",
+      "id": 4
+    }
+  ]
+}
